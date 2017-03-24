@@ -5,7 +5,7 @@ Solutions for [HackerRank](https://www.hackerrank.com/) problems
 
 Solutions are coded using Java8
 
-[https://github.com/5hiv4/hackerRank-Solutions/tree/master/Algorithms](https://github.com/5hiv4/hackerRank-Solutions/tree/master/Algorithms)##
+[ ](https://github.com/5hiv4/hackerRank-Solutions/tree/master/Algorithms) **Algorithms**
 
-**Algorithms**
+
 
