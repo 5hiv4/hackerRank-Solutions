@@ -5,7 +5,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Solution {
+public class MLRSolution {
     public static void main(String[] args) {
         /* Read input: Create and fill X,Y arrays */
         Scanner scan = new Scanner(System.in);

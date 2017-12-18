@@ -5,7 +5,7 @@
 import java.lang.Math;
 import java.util.Scanner;
 
-public class Solution {
+public class GeometricDistribution2Solution {
 
     public static void main(String[] args) {
         /* Read and Store Data */

@@ -5,7 +5,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class InterquartileSolution {
 
     public static void main(String[] args) {
         /* Create and Store data in ArrayList */

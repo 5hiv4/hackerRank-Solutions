@@ -5,7 +5,7 @@
 import java.lang.Math;
 import java.util.Scanner;
 
-public class Solution {
+public class BinomialDistribution2Solution {
 
     public static void main(String[] args) {
         /* Store the Given Data */

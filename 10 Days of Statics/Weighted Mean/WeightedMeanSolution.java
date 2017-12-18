@@ -5,7 +5,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class WeightedMeanSolution {
 
     public static void main(String[] args) {
         /* Read Input: Create and Fill an Array */

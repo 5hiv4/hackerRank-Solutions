@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.*;
 import java.util.stream.*;
 
-public class Solution {
+public class MMMSolution {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */

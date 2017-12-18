@@ -5,7 +5,7 @@
 import java.util.stream.*;
 import java.lang.Math;
 
-public class Solution {
+public class LSRLSolution {
 
     public static void main(String[] args) {
         /* Store the Data */
